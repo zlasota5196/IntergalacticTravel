@@ -13,6 +13,7 @@
 		A2C80DB027331531007C7E04 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2C80DAE27331531007C7E04 /* Main.storyboard */; };
 		A2C80DB227331533007C7E04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2C80DB127331533007C7E04 /* Assets.xcassets */; };
 		A2C80DB527331533007C7E04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2C80DB327331533007C7E04 /* LaunchScreen.storyboard */; };
+		A2D9DECA2735B57600D4F47A /* StarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D9DEC92735B57600D4F47A /* StarViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A2C80DB127331533007C7E04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2C80DB427331533007C7E04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2C80DB627331533007C7E04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2D9DEC92735B57600D4F47A /* StarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A2C80DA827331531007C7E04 /* AppDelegate.swift */,
 				A2C80DAA27331531007C7E04 /* SceneDelegate.swift */,
 				A2C80DAC27331531007C7E04 /* ViewController.swift */,
+				A2D9DEC92735B57600D4F47A /* StarViewController.swift */,
 				A2C80DAE27331531007C7E04 /* Main.storyboard */,
 				A2C80DB127331533007C7E04 /* Assets.xcassets */,
 				A2C80DB327331533007C7E04 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2D9DECA2735B57600D4F47A /* StarViewController.swift in Sources */,
 				A2C80DAD27331531007C7E04 /* ViewController.swift in Sources */,
 				A2C80DA927331531007C7E04 /* AppDelegate.swift in Sources */,
 				A2C80DAB27331531007C7E04 /* SceneDelegate.swift in Sources */,

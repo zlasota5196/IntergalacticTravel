@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func whenBlueButtonPressed(_ sender: Any) {
+        performSegue(withIdentifier: "MySegue", sender: nil)
+    }
+    
 }
 
